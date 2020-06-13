@@ -12,6 +12,6 @@ use this information to identify projects most likely to need further review bef
 
 # Details about this repo:
 
-In this repo, we have applied various Machine Learning Techniques like Knn, Naive Bayes, Logistic Regression, SVM, Decision Tree, RF and 
+In this repo, I have applied various Machine Learning Techniques like Knn, Naive Bayes, Logistic Regression, SVM, Decision Tree, RF and 
 XGBosst on the Donor's choose dataset. The aim here is to get the best model that can help us to distinguish between approved and rejected 
 projects.
